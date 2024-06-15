@@ -5,7 +5,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -15,7 +15,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -25,7 +25,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -35,7 +35,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 2"
+        "OP"
       ]
     }
   },
@@ -45,7 +45,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -55,7 +55,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -65,7 +65,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 3"
+        "OP"
       ]
     }
   },
@@ -75,7 +75,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -85,7 +85,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -95,7 +95,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -105,7 +105,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -115,7 +115,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 3"
+        "OP"
       ]
     }
   },
@@ -125,7 +125,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 4"
+        "OP"
       ]
     }
   },
@@ -135,7 +135,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 5"
+        "OP"
       ]
     }
   },
@@ -145,7 +145,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 6"
+        "OP"
       ]
     }
   },
@@ -155,7 +155,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -165,7 +165,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -175,7 +175,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 7"
+        "OP"
       ]
     }
   },
@@ -185,7 +185,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -195,7 +195,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -205,7 +205,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -215,7 +215,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -225,7 +225,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -235,7 +235,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -245,7 +245,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -255,7 +255,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -265,7 +265,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -275,7 +275,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -285,7 +285,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -295,7 +295,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -305,7 +305,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -315,7 +315,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -325,7 +325,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -335,7 +335,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -345,7 +345,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -355,7 +355,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -365,7 +365,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -375,7 +375,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -385,7 +385,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -395,7 +395,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -405,7 +405,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -415,7 +415,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -425,7 +425,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -435,7 +435,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -445,7 +445,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -455,7 +455,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -465,7 +465,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -475,7 +475,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 3"
+        "OP"
       ]
     }
   },
@@ -485,7 +485,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -495,7 +495,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -505,7 +505,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -515,7 +515,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -525,7 +525,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -535,7 +535,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -545,7 +545,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -555,7 +555,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -565,7 +565,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -575,7 +575,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 2"
+        "OP"
       ]
     }
   },
@@ -585,7 +585,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -595,7 +595,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -605,7 +605,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -615,7 +615,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -625,7 +625,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -635,7 +635,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -645,7 +645,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -655,7 +655,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -665,7 +665,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -675,7 +675,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -685,7 +685,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -695,7 +695,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -705,7 +705,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -715,7 +715,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -725,7 +725,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -735,7 +735,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -745,7 +745,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -755,7 +755,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -765,7 +765,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -775,7 +775,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -785,7 +785,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 3"
+        "OP"
       ]
     }
   },
@@ -795,7 +795,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -805,7 +805,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -815,7 +815,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -825,7 +825,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -835,7 +835,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -845,7 +845,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -855,7 +855,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -865,7 +865,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -875,7 +875,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -885,7 +885,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -895,7 +895,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -905,7 +905,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -915,7 +915,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   }
